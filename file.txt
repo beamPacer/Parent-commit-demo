@@ -1,5 +1,7 @@
 1 Code change on master
 
+We decided to add this line.
+
 2 Important bug fix for 1.0
 
 3 Second important bug fix for 1.0
