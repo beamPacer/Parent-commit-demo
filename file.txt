@@ -1,8 +1,8 @@
 1 Code change on master
 
-2
+2 Important bug fix for 1.0
 
-3
+3 Second important bug fix for 1.0
 
 4 Some other change on master
 
