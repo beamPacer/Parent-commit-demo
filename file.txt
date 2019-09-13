@@ -1,6 +1,6 @@
 1 Code change on master
 
-2
+2 Important bug fix for 1.0
 
 3
 
