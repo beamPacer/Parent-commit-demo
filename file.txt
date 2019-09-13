@@ -4,6 +4,8 @@ We decided to add this line.
 
 2 Important bug fix for 1.0
 
+We also decided to add this line.
+
 3 Second important bug fix for 1.0
 
 4 Some other change on master
